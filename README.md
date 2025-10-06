@@ -24,7 +24,6 @@
 **ELISGardener** is an open‑source Android application that lists plants *most likely to thrive exactly where you are*. It detects the user’s GPS position, queries **Gemini AI** through Firebase AI Extensions and returns a curated catalogue complete with at‑a‑glance vitals and deep‑dive care details.
 
 > **Core idea:** "Show me plants I can actually grow *here* – with zero guesswork."
- 
 
 > Why this repo exists: 
 > This codebase was originally built as the live demo for an online ELIS webinar on practical Android development with Gemini AI. 

@@ -2,8 +2,6 @@
 
 > *Discover what grows where you stand – an Android gardening companion powered by **Gemini AI** through Firebase AI Extensions.*
 
-
-Aggiungo del testo a caso
 ---
 
 ## Table of Contents
